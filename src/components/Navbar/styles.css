@@ -20,6 +20,12 @@ nav .nav-brand {
     gap: 1rem;
 }
 
+nav .nav-brand h1 {
+    font-family: 'Grenze', serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
 nav .nav-list {
     display: flex;
     align-items: center;
